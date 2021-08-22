@@ -5,15 +5,15 @@
 The bootcamp hackathon theme was about films and each group was assigned a different movie. Our group was assigned Mad Max. Inspired by the anarchic and hopeless nature of a post-apocalyptic setting where resources are scarce and violence reigns supreme, we came up with the idea of creating a web app allocated in the deep web, that provides different services to every other user in order to thrive in this world.
 
 ## Index
-![Index](https://github.com/Zentee/Hackathon/blob/Zent/Imagens/Index.png)
+![Index](https://github.com/Zentee/Hackaton/blob/master/Imagens/Index.png)
 
 At the bottom of the page there is an invisible button that goes to the next page, you can see where the button is in the image below.
 
 ## Hidden-Button
-![Hidden-Buttob](https://github.com/Zentee/Hackathon/blob/Zent/Imagens/Hiden-Button.png)
+![Hidden-Buttob](https://github.com/Zentee/Hackaton/blob/master/Imagens/Hiden-Button.png)
 
 ## DeepWebLogin
-![DeepWebLogin](https://github.com/Zentee/Hackathon/blob/Zent/Imagens/DeepLogin.png)
+![DeepWebLogin](https://github.com/Zentee/Hackaton/blob/master/Imagens/DeepLogin.png)
 
 To connect you have 3 passwords. The passwords are:
 
@@ -24,7 +24,7 @@ To connect you have 3 passwords. The passwords are:
 </ul>
 
 ## Main Page
-![DeepWebLogin](https://github.com/Zentee/Hackathon/blob/Zent/Imagens/Page.png)
+![DeepWebLogin](https://github.com/Zentee/Hackaton/blob/master/Imagens/Page.png)
 
 # Technologies used back end:
 
