@@ -55,7 +55,7 @@ Prerequisites: Java 8, Maven and MySQL;
 
 ```bash
 # clone repository 
-git clone https://github.com/BrPedro-dev/Hackathon.git
+git clone https://github.com/Zentee/Hackathon.git
 
 # run the jar 
 java -jar hackaton-0.0.1-SNAPSHOT.jar
