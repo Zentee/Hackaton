@@ -1,5 +1,5 @@
 # Mad Pinchers
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BrPedro-dev/Hackathon/blob/Pedro/LICENSE) 
+
 
 # About the project
 The bootcamp hackathon theme was about films and each group was assigned a different movie. Our group was assigned Mad Max. Inspired by the anarchic and hopeless nature of a post-apocalyptic setting where resources are scarce and violence reigns supreme, we came up with the idea of creating a web app allocated in the deep web, that provides different services to every other user in order to thrive in this world.
